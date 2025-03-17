@@ -1,5 +1,5 @@
 {
-    "name": "laravel-shift/factory-generator",
+    "name": "funkju/factory-generator",
     "description": "Generate factories from existing models",
     "type": "package",
     "license": "MIT",
